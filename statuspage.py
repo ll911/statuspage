@@ -16,7 +16,8 @@ except AttributeError:
 COLORED_LABELS = (
     ("1192FC", "investigating",),
     ("FFA500", "degraded performance"),
-    ("FF4D4D", "major outage", )
+    ("FF4D4D", "major outage", ),
+    ("663300", "scheduled maintenance",)
 )
 
 SYSTEM_LABEL_COLOR = "171717"
