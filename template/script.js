@@ -6,7 +6,8 @@ var systemLabelColor = "171717";
 var severityLabels = {
     "1192FC": "investigating",
     "FFA500": "degraded performance",
-    "FF4D4D": "major outage"
+    "FF4D4D": "major outage",
+    "663300": "scheduled maintenance"
 };
 
 function render() {
